@@ -4,3 +4,6 @@ dependencies:
   - numpy
   - jupyter-server-proxy
   - code-server >=3.2
+  - pyyaml
+  - gitpython
+  - rich
